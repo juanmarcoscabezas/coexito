@@ -17,6 +17,6 @@
 ### Mapa
 ![Mapa](https://raw.githubusercontent.com/juanmarcoscabezas/coexito/master/mapa.png)
 
-### Mapa Cluster
+<h3 style="text-align: center"> Mapa cluster </h3>
 ![Mapa cluster](https://raw.githubusercontent.com/juanmarcoscabezas/coexito/master/mapa-cluster.png)
 
